@@ -1,0 +1,39 @@
+============Goal Found============
+Moves Taken
+9,7
+23,9
+10,8
+7,9
+4,16
+===========Summary stats=================
+Number of Nodes Expanded: 18
+Total time needed : 0.00764083862305 seconds
+============Goal Found============
+Moves Taken
+9,11
+23,9
+8,10
+11,9
+4,16
+===========Summary stats=================
+Number of Nodes Expanded: 20
+Total time needed : 0.000677108764648 seconds
+============Goal Found============
+Moves Taken
+30,22
+15,27
+32,30
+30,22
+13,15
+22,8
+8,0
+0,2
+2,10
+19,17
+10,24
+25,23
+28,16
+===========Summary stats=================
+Number of Nodes Expanded: 7262
+Total time needed : 31.087334156 seconds
+

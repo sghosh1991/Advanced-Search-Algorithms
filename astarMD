@@ -1,0 +1,61 @@
+ASTAR MD
+
+============Goal Found============
+Moves Taken
+9,7
+23,9
+10,8
+7,9
+4,16
+===========Summary stats=================
+Number of Nodes Expanded: 14
+Total time needed : 0.00678896903992 seconds
+============Goal Found============
+Moves Taken
+9,11
+23,9
+8,10
+11,9
+4,16
+===========Summary stats=================
+Number of Nodes Expanded: 19
+Total time needed : 0.00199508666992 seconds
+============Goal Found============
+Moves Taken
+30,22
+19,17
+32,30
+15,27
+30,22
+13,15
+22,8
+8,0
+0,2
+2,10
+10,24
+25,23
+28,16
+===========Summary stats=================
+Number of Nodes Expanded: 513
+Total time needed : 0.254135847092 seconds
+============Goal Found============
+Moves Taken
+30,22
+19,17
+32,30
+15,27
+13,15
+30,22
+22,8
+8,0
+0,2
+2,10
+10,24
+25,23
+28,16
+===========Summary stats=================
+Number of Nodes Expanded: 529
+Total time needed : 0.00946593284607 seconds
+
+
+

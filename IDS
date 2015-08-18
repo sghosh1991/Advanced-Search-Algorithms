@@ -1,0 +1,30 @@
+Goal Reached..print state at depth5
+Moves Taken
+9,7
+23,9
+10,8
+7,9
+4,16
+===========Summary stats=================
+Number of Nodes Expanded: 46
+Total time needed : 0.000154972076416 seconds
+No Goal Possible from this node
+Goal Reached..print state at depth13
+Moves Taken
+19,17
+30,22
+15,27
+13,15
+32,30
+30,22
+22,8
+8,0
+0,2
+2,10
+10,24
+25,23
+28,16
+===========Summary stats=================
+Number of Nodes Expanded: 1138
+Total time needed : 0.000140190124512 seconds
+
